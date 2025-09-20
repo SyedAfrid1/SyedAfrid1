@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Building IoT + AI projects (Smart Helmet, Face Recognition, Habit Tracker)<br>📚 Learning SQL, ML & React<br>⚡ Turning “what if” ideas into projects<br>📩 Connect with me • Instagram: @syedafrid299<br>                   • LinkedIn: Syed Afrid Saihan
+🚀 Building IoT + AI projects (Smart Helmet, Face Recognition, Habit Tracker)<br>📚 Learning SQL, ML & React<br>⚡ Turning “what if” ideas into projects<br>📩 Connect with me • Instagram: @syedafrid299 • LinkedIn: Syed Afrid Saihan
 
 
 ## 🌐 Socials:
